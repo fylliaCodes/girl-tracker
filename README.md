@@ -1,4 +1,12 @@
-# a smart-spending app that helps women track their finances and achieve their personal goal-purchases.
-Girl Spending is a digital expense management system designed to help girls and women efficiently monitor their daily financial activities. The smart tracker is an application that enables users to track both paid and unpaid transactions through a computerized platform, reducing the need for manual record-keeping. By systematically recording all transactions, the system provides users with organized, accessible, and reliable financial data, empowering them to make informed decisions about their money.
-This project sits at the intersection of data-driven financial management and personal financial empowerment. Its main objective is support young women in managing their budgets, making smarter spending choices, and achieving their long-term financial goals. The study focuses on analyzing the impact of everyday purchases, using fixed functions to categorize expenses, assign saving scores, and propose strategies that encourage mindful and goal-oriented financial behaviors.
-Ultimately, this project highlights how technology can be leveraged to foster smarter spending, sustainable saving, and mindful financial behavior, supporting both personal financial stability and broader economic well-being, all while addressing the unique financial needs and goals of girls and young women.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
